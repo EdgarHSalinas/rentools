@@ -3,10 +3,33 @@
  position: absolute;
  background-color: navy  !important;
 }
+.btn {
 
+background-color: navy;
+border: navy;
+
+}
+.btn-default:hover {
+    color: white;
+    background-color: navy;
+    border-color: navy;
+}
+
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    background-color: navy
+
+}
 /*#search{
   text-align: center;
 }*/
+
+.btn {
+
+}
 
 .navbar-default{
   background-color: navy  !important;
